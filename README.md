@@ -95,7 +95,11 @@ Trained models are saved to:
 5. Open a pull request
 
 ## License
-[MIT License](LICENSE) - Copyright (c) 2024 [Your Name]
+[MIT License](LICENSE) - Copyright (c) 2024 Pragadeesh V and Yuvan Shankar Raja S
+
+## Authors
+- Pragadeesh V
+- Yuvan Shankar Raja S
 ```
 
 This README.md incorporates:
